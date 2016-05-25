@@ -1,4 +1,8 @@
 Cold and try, but everything is my favorite color
 The two months may be a problem for Wolfman
 But the mommy will appreciate the lacke of humidity
+<<<<<<< HEAD
 coucou tu veux voir ...
+=======
+Hello MUmmy how are you today ?
+>>>>>>> ea633bcaf3ed58f0235d93792ac51a8f63b43678
